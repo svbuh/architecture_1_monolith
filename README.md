@@ -13,7 +13,7 @@ This is a Spring Boot application that retrieves data from the Star Wars API (SW
 
 ```bash
 git clone https://github.com/svbuh/architecture_1_monolith.git
-cd swapi-service-app
+cd architecture_1_monolith
 ```
 ### Build the Project
 To build the project, run the following command:
